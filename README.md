@@ -4,6 +4,10 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Machine Learning, Data Science, Django, AI.
+- 🥅 2022 Goals: To push pass my limits in the industry.
+- ⚡ Fun fact: I love to draw, play guitar and going on an adventure!
+- 📫 How to reach me imsourabh.st@gmail.com
+- 👨‍💼 To Hire me, message me on Linkedin
 <!--
 **sourabh-st/sourabh-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
