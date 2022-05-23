@@ -1,5 +1,9 @@
-### Hi there 👋
+# HEllO 👋, Sourabh Singh Thakur here!  
 
+## You'll Wonder Where The Yellow Went, When You Brush Your Teeth With Developer Like me.
+
+- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about Machine Learning, Data Science, Django, AI.
 <!--
 **sourabh-st/sourabh-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[instagram]: https://www.instagram.com/sourabh_st/?hl=en
+[linkedin]: https://www.linkedin.com/in/imsourabh-st/
