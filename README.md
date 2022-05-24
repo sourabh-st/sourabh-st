@@ -1,4 +1,4 @@
-# <align> HEllO 👋, Sourabh Singh Thakur here!  
+# <align> HELLO 👋, Sourabh Singh Thakur here!  
  
  <br />
 
