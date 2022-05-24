@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: To push pass my limits in the industry.
 - ⚡ Fun fact: I love to draw, play guitar and going on an adventure!
 - 📫 How to reach me imsourabh.st@gmail.com
-- 👨‍💼 To Hire me, message me on Linkedin
+- 👨‍💼 To Hire me, message me on [Linkedin](https://www.linkedin.com/in/imsourabh-st)
 
 ## Languages and Tools:
 
