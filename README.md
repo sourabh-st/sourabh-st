@@ -20,7 +20,7 @@
 
 <img align="left" alt="conda" width="26px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
  
-<img align="left" alt="django" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg)" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
   
  <img align="left" alt="pandas" width="26px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" /> 
   
