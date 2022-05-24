@@ -38,9 +38,7 @@
   
 <img align="left" alt="git" width="56px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 
- 
- 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
  
  <p align="left">
   <a href="https://www.linkedin.com/in/imsourabh-st" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a>
