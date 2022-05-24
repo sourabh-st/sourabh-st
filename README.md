@@ -36,4 +36,4 @@
  
 <img align="left" alt="illustrator" width="36px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
   
-<img align="left" alt="git" width="36px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="git" width="56px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
