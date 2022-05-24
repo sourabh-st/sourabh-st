@@ -40,3 +40,11 @@
 <a href="https://www.linkedin.com/in/imsourabh-st" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/s9589488976" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg" alt="Facebook" width="40" height="40"/> </a>
 <a href="https://www.kaggle.com/sourabhst" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> </a>
+
+ 
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourabh-st&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
