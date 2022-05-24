@@ -38,11 +38,13 @@
   
 <img align="left" alt="git" width="56px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
 
+ <br/>
+ 
  
 ## Connect with me
  
-[![website](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/imsourabh-st) 
+[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/imsourabh-st) 
  
-[![website](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg)](https://www.facebook.com/s9589488976)
+[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg" style="padding-right:10px;" />)](https://www.facebook.com/s9589488976)
  
-[![website](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original-wordmark.svg)](https://www.kaggle.com/sourabhst)
+[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original-wordmark.svg" style="padding-right:10px;" />)](https://www.kaggle.com/sourabhst)
