@@ -41,10 +41,14 @@
  <br/>
  
  
-## Connect with me
+<h3 align="left">Connect with me:</h3>
  
-[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/imsourabh-st) 
+ <p align="left">
+  <a href="https://www.linkedin.com/in/imsourabh-st" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a>
+
  
-[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg" style="padding-right:10px;" />)](https://www.facebook.com/s9589488976)
+ <a href="https://www.facebook.com/s9589488976" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg" alt="Facebook" width="40" height="40"/> </a>
  
-[![website](<img align="left" alt="bootstrap" width="36px" src=" https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original-wordmark.svg" style="padding-right:10px;" />)](https://www.kaggle.com/sourabhst)
+  <a href="https://www.kaggle.com/sourabhst" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40"/> </a>
+ 
+</p>
